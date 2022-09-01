@@ -28,7 +28,7 @@ Across the world, most meetings beteen patients and health practicioners is usua
 - Does SMS remnder affect patients' turn out?
 
 ---
-## Conclusion
+## Insights and Conclusion
 - The distribution of the gender in the dataset is highly skewed towards the female gender. Because of this, calculations around gender needed to be normalised for unbiased results.
 - Majority of the patients that showed up or not are those between aged 0 and 2. This is because that age bracket take a high percent of the population (6.84% for 3 data points of 103 unique ages). But interestingly, adults in their fifties and early sixties are more inclined to show up for their appointment, while young adults between age 17 to 30 are more inclined to not show up for their appointment.
 - For ages that are outliers, only the negative age was droped. The patients aged above 100 had heir records kept.
