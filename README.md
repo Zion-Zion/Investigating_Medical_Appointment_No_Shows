@@ -1,4 +1,4 @@
-# Investigating_Medical_Appointment_No_Shows
+# Investigating Medical Appointment No-Shows
 ---------------------------------------------
 
 Across the world, most meetings beteen patients and health practicioners is usually done after scheduling an appointment. This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. Features of the patient are included in each row. The columns are:
