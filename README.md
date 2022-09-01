@@ -26,3 +26,15 @@ Across the world, most meetings beteen patients and health practicioners is usua
 - What is the gender distribution of scholarship recipients
 - What days of the week are preferred by patients?
 - Does SMS remnder affect patients' turn out?
+
+---
+## Conclusion
+- The distribution of the gender in the dataset is highly skewed towards the female gender. Because of this, calculations around gender needed to be normalised for unbiased results.
+- Majority of the patients that showed up or not are those between aged 0 and 2. This is because that age bracket take a high percent of the population (6.84% for 3 data points of 103 unique ages). But interestingly, adults in their fifties and early sixties are more inclined to show up for their appointment, while young adults between age 17 to 30 are more inclined to not show up for their appointment.
+- For ages that are outliers, only the negative age was droped. The patients aged above 100 had heir records kept.
+- Both males and females show similar tendency to show up for their appointments.
+- The scholarship recipients value the scholarship. 8 in 10 tend to show up for their appointments. when compared to that of non recipients, it is slightly better.
+- Females tend to be beneficiaries of the scholarship than guys.
+- SMS reminders did not really fulfill their's purpose. Of 100 patients that did not receive a SMS, 83 showed up for their appointments, while for 100 that got reminders, only 72 showed up.
+- Patients prefer Tuesdays and Wednesdays for their appointments. weekends are usually free.
+- Hypertension seem rife among the sample. Steps should be taken to reduce the rate at which patients become hypertensive.
